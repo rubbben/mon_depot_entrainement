@@ -1,1 +1,1 @@
-Un petit dépôt personnel permettant de manipuler git et github
+Un petit dépôt personnel permettant de manipuler git et github.
