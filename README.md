@@ -1,1 +1,1 @@
-Mon site Web pour le cours git
+Un petit dépôt personnel permettant de manipuler git et github
